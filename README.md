@@ -111,6 +111,7 @@ The results show that the DSM model and our model are robust to noise.
 </p>
 
 DANet with noise for train: Only the training set was randomly added with 0-20db of various types of noise.
+
 DANet with noise for train and test: training and testing sets are randomly added with 0-20db of various types of noise.
 
 ## Download the pre-trained model
