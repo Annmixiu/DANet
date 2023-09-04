@@ -85,6 +85,12 @@ We conducted seven ablations to verify the effectiveness of each design in the p
 <img src="fig/MEDLEY DB_ablation.png" align="center" alt="ablation_MEDLEY DB" width="40%"/>
 </p>
 
+### about the application of noisy data
+
+* noisy data for the testing → evaluate the noise immunity and generalization of different models
+* noisy data for the training → typical data augmentation
+* noisy data for the training and testing → evaluate the resistance of our model to noise effects after training in a noisy environment
+
 ## Download the pre-trained model
 
 Refer to the contents of the folder: [pre-train model](pre-train%20model).
