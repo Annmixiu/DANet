@@ -73,6 +73,19 @@ HGNet|ICASSP2022|[paper](https://ieeexplore.ieee.org/abstract/document/9747629)|
 
 </center>
 
+<center>
+
+| model   | published   | paper                                                                                     | code                                                                                                       |
+| ------- | ----------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| MCDNN   | ISMIR2016   | [paper](https://www.researchgate.net/profile/Juhan-Nam/publication/305771827_Melody_Extraction_On_Vocal_Segments_Using_Multi-Column_Deep_Neural_Networks/links/57a0a08508ae5f8b25891892/Melody-Extraction-On-Vocal-Segments-Using-Multi-Column-Deep-Neural-Networks.pdf)   | [code](https://github.com/LqNoob/MelodyExtraction-MCDNN/blob/master/MelodyExtraction_SCDNN.py)   |
+| MSNet   | ICASSP2019 | [paper](https://ieeexplore.ieee.org/abstract/document/8682389)                               | [code](https://github.com/bill317996/Melody-extraction-with-melodic-segnet/blob/master/MSnet/model.py) |
+| FTANet  | ICASSP2021 | [paper](https://ieeexplore.ieee.org/abstract/document/9413444)                               | [code](https://github.com/yushuai/FTANet-melodic/tree/main/network)                                    |
+| TONet   | ICASSP2022 | [paper](https://ieeexplore.ieee.org/abstract/document/9747304)                               | [code](https://github.com/RetroCirce/TONet/blob/main/model/tonet.py)                                   |
+| HGNet   | ICASSP2022 | [paper](https://ieeexplore.ieee.org/abstract/document/9747629)                               | -                                                                                                         |
+
+</center>
+
+
 ### Ablation study result
 
 We conducted seven ablations to verify the effectiveness of each design in the proposed network. Due to the page limit, we selected the ADC2004 dataset for ablation study in the paper. More detailed results are presented here.
