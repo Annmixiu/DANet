@@ -44,7 +44,7 @@ Refer to the file: [danet.py](model/danet.py)
 
 ### Prediction result
 
-The visualization illustrates that our proposed MTANet can reduce the octave errors and the melody detection errors.
+The visualization illustrates that our proposed DANet can reduce the octave errors and the melody detection errors.
 
 <p align="center">
 <img src="fig/estimation1.png" align="center" alt="estimation1" width="50%"/>
