@@ -11,7 +11,7 @@ The official implementation of "DANET: DIFFERENCE-VALUE ATTENTION NETWORK FOR SI
 
 Uploaded: 
 
-          (a) model and add noise code 
+          (a) [model](model/danet.py) and add noise code 
 
           (b) CFP representation generation code 
           
