@@ -59,7 +59,7 @@ The scores here are either taken from their respective papers or from the result
 |ADC2004|VR|VFA|RPA|RCA|ROA|OA|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |MCDNN|7.12|8.45|7.85|9.43|8.21|
-|MSNet [[paper]([https://arxiv.org/pdf/1806.03185.pdf](https://www.researchgate.net/profile/Juhan-Nam/publication/305771827_Melody_Extraction_On_Vocal_Segments_Using_Multi-Column_Deep_Neural_Networks/links/57a0a08508ae5f8b25891892/Melody-Extraction-On-Vocal-Segments-Using-Multi-Column-Deep-Neural-Networks.pdf))]]|3.21|4.22|2.25|3.25|3.23|
+|MSNet [[paper](https://www.researchgate.net/profile/Juhan-Nam/publication/305771827_Melody_Extraction_On_Vocal_Segments_Using_Multi-Column_Deep_Neural_Networks/links/57a0a08508ae5f8b25891892/Melody-Extraction-On-Vocal-Segments-Using-Multi-Column-Deep-Neural-Networks.pdf)]|3.21|4.22|2.25|3.25|3.23|
 |FTANet [[paper](https://hal.inria.fr/hal-02293689/document)] [[code](https://github.com/sigsep/open-unmix-pytorch)]|5.23|5.73|4.02|6.32|5.33|
 |TONet [[paper](https://arxiv.org/pdf/2002.07016.pdf)] [[code](https://github.com/pfnet-research/meta-tasnet)]|5.58|5.91|4.19|6.40|5.52|
 |HGNet [[paper](https://arxiv.org/pdf/1805.02410.pdf)]|5.16|6.41|4.15|6.60|5.58|
