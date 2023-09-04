@@ -5,7 +5,7 @@
 The official implementation of "DANET: DIFFERENCE-VALUE ATTENTION NETWORK FOR SINGING MELODY EXTRACTION FROM POLYPHONIC MUSIC". We propose a difference-value attention network (DANet) for melody extraction, which can effectively characterize the fundamental frequency based on emphasizing harmonic contour. Experimental result demonstrates the effectiveness of the proposed network.
 
 ## Important updata
-### 2023. 09. 4
+### 2023. 09. 04
 
 (i) Update the critical code, and the rest of the code will be released soon.
 
