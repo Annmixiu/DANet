@@ -11,11 +11,10 @@ The official implementation of "DANET: DIFFERENCE-VALUE ATTENTION NETWORK FOR SI
 
 Uploaded: 
 
-* [model](model/danet)
-
-          (b) CFP representation generation code 
-          
-          (c) pre-train model
+* [model](model/danet.py)
+* [add noise](add_noise.py)
+* [CFP representation generation](feature_extraction.py)
+* [pre-train model](pre-train%20model)
 
 Subsequent update: 
 
