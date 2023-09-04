@@ -62,6 +62,7 @@ The scores here are either taken from their respective papers or from the result
 </p>
 
 The models in the above table correspond to paper and codes:
+
 <center>
   
 | model | published | paper | code | model | published | paper | code |
@@ -69,6 +70,8 @@ The models in the above table correspond to paper and codes:
 MCDNN|ISMIR2016|[paper](https://www.researchgate.net/profile/Juhan-Nam/publication/305771827_Melody_Extraction_On_Vocal_Segments_Using_Multi-Column_Deep_Neural_Networks/links/57a0a08508ae5f8b25891892/Melody-Extraction-On-Vocal-Segments-Using-Multi-Column-Deep-Neural-Networks.pdf)|[code](https://github.com/LqNoob/MelodyExtraction-MCDNN/blob/master/MelodyExtraction_SCDNN.py)|MSNet|ICASSP2019|[paper](https://ieeexplore.ieee.org/abstract/document/8682389)|[code](https://github.com/bill317996/Melody-extraction-with-melodic-segnet/blob/master/MSnet/model.py)|
 FTANet|ICASSP2021|[paper](https://ieeexplore.ieee.org/abstract/document/9413444)|[code](https://github.com/yushuai/FTANet-melodic/tree/main/network)|TONet|ICASSP2022|[paper](https://ieeexplore.ieee.org/abstract/document/9747304)|[code](https://github.com/RetroCirce/TONet/blob/main/model/tonet.py)|
 HGNet|ICASSP2022|[paper](https://ieeexplore.ieee.org/abstract/document/9747629)|-|
+
+</center>
 
 ### Ablation study result
 
