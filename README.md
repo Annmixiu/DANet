@@ -56,6 +56,7 @@ The visualization illustrates that our proposed MTANet can reduce the octave err
 ### Comprehensive result
 
 The scores here are either taken from their respective papers or from the result implemented by us. Experimental results show that our proposed DANet achieves promising performance compared with existing state-of-the-art methods.
+|Dataset|ADC2004|
 |Models|VR|VFA|RPA|RCA|ROA|OA|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |IRM oracle|7.12|8.45|7.85|9.43|8.21|
