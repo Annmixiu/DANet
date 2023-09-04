@@ -90,15 +90,15 @@ We conducted seven ablations to verify the effectiveness of each design in the p
 * noisy data for the testing → evaluate the noise immunity and generalization of different models.
 
 <p align="center">
-<img src="fig/noise_ADC2004.png" align="center" alt="ablation_ADC2004" width="40%"/>
+<img src="fig/noise_ADC2004.png" align="center" alt="ablation_ADC2004" width="45%"/>
 </p>
 
 <p align="center">
-<img src="fig/noise_MIREX05.png" align="center" alt="ablation_MIREX 05" width="40%"/>
+<img src="fig/noise_MIREX05.png" align="center" alt="ablation_MIREX 05" width="45%"/>
 </p>
 
 <p align="center">
-<img src="fig/noise_MEDLEY DB.png" align="center" alt="ablation_MEDLEY DB" width="40%"/>
+<img src="fig/noise_MEDLEY DB.png" align="center" alt="ablation_MEDLEY DB" width="45%"/>
 </p>
 
 The results show that the DSM model and our model are robust to noise.
