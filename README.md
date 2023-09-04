@@ -106,6 +106,12 @@ The results show that the DSM model and our model are robust to noise.
 * noisy data for the training → typical data augmentation
 * noisy data for the training and testing → evaluate the resistance of our model to noise effects after training in a noisy environment
 
+<p align="center">
+<img src="fig/noise_all.png" align="center" alt="ablation_MEDLEY DB" width="40%"/>
+</p>
+
+
+
 ## Download the pre-trained model
 
 Refer to the contents of the folder: [pre-train model](pre-train%20model).
