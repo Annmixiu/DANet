@@ -61,6 +61,10 @@ The scores here are either taken from their respective papers or from the result
 <img src="fig/comprehensive result.png" align="center" alt="comprehensive result" width="35%"/>
 </p>
 
+The models in the above table correspond to paper and codes:
+
+MCDNN [paper](https://www.researchgate.net/profile/Juhan-Nam/publication/305771827_Melody_Extraction_On_Vocal_Segments_Using_Multi-Column_Deep_Neural_Networks/links/57a0a08508ae5f8b25891892/Melody-Extraction-On-Vocal-Segments-Using-Multi-Column-Deep-Neural-Networks.pdf)
+
 ### Ablation study result
 
 We conducted seven ablations to verify the effectiveness of each design in the proposed network. Due to the page limit, we selected the ADC2004 dataset for ablation study in the paper. More detailed results are presented here.
