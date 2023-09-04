@@ -9,9 +9,13 @@ The official implementation of "DANET: DIFFERENCE-VALUE ATTENTION NETWORK FOR SI
 
 (i) Update the critical code, and the rest of the code will be released soon.
 
-Uploaded: (a) model and add noise code (b) CFP representation generation code (c) pre-train model
+Uploaded: (a) model and add noise code 
+          (b) CFP representation generation code 
+          (c) pre-train model
 
-Subsequent update: (a) control group model (b) data generation code (c) complete code with training and testing
+Subsequent update: (a) control group model 
+                   (b) data generation code 
+                   (c) complete code with training and testing
 
 ## Getting Started
 
