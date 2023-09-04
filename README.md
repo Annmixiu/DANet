@@ -18,11 +18,11 @@ Uploaded:
 
 Subsequent update: 
 
-(a) control group model 
+ (a) control group model 
 
-(b) data generation code 
+ (b) data generation code 
                    
-(c) complete code with training and testing
+ (c) complete code with training and testing
 
 ## Getting Started
 
