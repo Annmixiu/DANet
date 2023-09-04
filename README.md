@@ -40,8 +40,6 @@ Note that the label data corresponding to the frame shift should be available be
 
 Refer to the file: [danet.py](model/danet.py)
 
-The replication code for other comparison models has been uploaded and can be found in the folder: [control group model](model/control%20group%20model).
-
 ## Result
 
 ### Prediction result
