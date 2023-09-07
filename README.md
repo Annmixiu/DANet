@@ -60,7 +60,7 @@ The visualization illustrates that our proposed DANet can reduce the octave erro
 <img src="fig/estimation3.png" align="center" alt="estimation3" width="50%"/>
 </p>
 
-### Visualization result
+### Supplement of visualization result
 
 <p align="center">
   <img src="fig/visualization1.png" width="100" alt="(a)" />
