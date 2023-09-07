@@ -62,11 +62,23 @@ The visualization illustrates that our proposed DANet can reduce the octave erro
 
 ### Visualization result
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="fig/visualization0.png" width="200" />
-  <img src="fig/visualization1.png" width="200" />
-  <img src="fig/visualization2.png" width="200" />
-  <img src="fig/visualization3.png" width="200" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="text-align: center;">
+    <img src="fig/visualization0" width="100" />
+    <br />(a)
+  </div>
+  <div style="text-align: center;">
+    <img src="fig/visualization1" width="100" />
+    <br />(b)
+  </div>
+  <div style="text-align: center;">
+    <img src="fig/visualization1" width="100" />
+    <br />(c)
+  </div>
+  <div style="text-align: center;">
+    <img src="fig/visualization3" width="100" />
+    <br />(d)
+  </div>
 </div>
 
 ### Comprehensive result
