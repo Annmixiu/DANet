@@ -105,7 +105,7 @@ We conducted seven ablations to verify the effectiveness of each design in the p
 <img src="fig/MEDLEY DB_ablation.png" align="center" alt="ablation_MEDLEY DB" width="50%"/>
 </p>
 
-### about the application of noisy data
+### About the application of noisy data
 
 * noisy data for the testing → evaluate the noise immunity and generalization of different models.
 
