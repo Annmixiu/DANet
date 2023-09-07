@@ -69,7 +69,10 @@ The visualization illustrates that our proposed DANet can reduce the octave erro
   <img src="fig/visualization3.png" width="100" alt="(d)" />
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;(c)&nbsp;(d)
+* The first and second picture show the output of the time-frequency attention module
+* The third and fourth picture show the output of the calibration fusion module
+* We can find that the features represent harmonic and F0 components of the dominant melody in the first and third picture, while the features represent accompaniment and noise components in the second and fourth picture.
+  
 ### Comprehensive result
 
 The scores here are either taken from their respective papers or from the result implemented by us. Experimental results show that our proposed DANet achieves promising performance compared with existing state-of-the-art methods.
