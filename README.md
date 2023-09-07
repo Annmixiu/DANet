@@ -58,7 +58,7 @@ The visualization illustrates that our proposed DANet can reduce the octave erro
 The scores here are either taken from their respective papers or from the result implemented by us. Experimental results show that our proposed DANet achieves promising performance compared with existing state-of-the-art methods.
 
 <p align="center">
-<img src="fig/comprehensive result.png" align="center" alt="comprehensive result" width="35%"/>
+<img src="fig/comprehensive result.png" align="center" alt="comprehensive result" width="45%"/>
 </p>
 
 The models in the above table correspond to paper and codes:
