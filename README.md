@@ -47,13 +47,7 @@ Refer to the file: [danet.py](model/danet.py)
 The visualization illustrates that our proposed DANet can reduce the octave errors and the melody detection errors.
 
 <p align="center">
-  <img src="fig/ours_male3.png" width="100" alt="(a)" />
-  <img src="fig/MSNet_male3.png" width="100" alt="(b)" />
-</p>
-
-<p align="center">
-  <img src="fig/ours_male5.png" width="100" alt="(a)" />
-  <img src="fig/MSNet_male5.png" width="100" alt="(b)" />
+<img src="fig/summary.png" align="center" alt="estimation" width="50%"/>
 </p>
 
 ### Supplement of visualization result
