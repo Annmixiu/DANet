@@ -50,8 +50,10 @@ The visualization illustrates that our proposed DANet can reduce the octave erro
 <img src="fig/summary.png" align="center" alt="estimation" width="50%"/>
 </p>
 
+Conclusion:
+
 We adopt a visualization approach to explore what types of errors are solved by our model as shown in the above. We choose MSNet to compare due to its structural similarity and popularity. Specifically, we plot the predictive frequencies over the time and ground truths by the MTANet and MSNet on two opera songs: “opera male3.wav” 
-and “opera male5.wav” from the ADC2004. We can observe that there are fewer octave errors (i.e., vertical jumps in the contours inside the red circle) in (a)/(c) than (b)/(d). Furthermore, there are fewer melody detection errors around 250ms and 750ms (i.e., predicting a melody frame as a non-melody one) in (c) than (d).
+and “opera male5.wav” from the ADC2004. We can observe that there are fewer octave errors (i.e., vertical jumps in the contours inside the red circle) in (a)/(c) than (b)/(d). Furthermore, there are fewer melody detection errors around 250ms and 750ms (i.e., predicting a melody frame as a non-melody one) in (c) than (d).
 
 ### Supplement of visualization result
 
