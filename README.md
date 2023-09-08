@@ -99,6 +99,8 @@ We conducted seven ablations to verify the effectiveness of each design in the p
 
 ### About the application of noisy data
 
+Source of noise database: [Microsoft Scalable Noisy Speech Dataset (MS-SNSD)](https://github.com/Annmixiu/MS-SNSD)
+
 * noisy data for the testing → evaluate the noise immunity and generalization of different models.
 
 <p align="center">
