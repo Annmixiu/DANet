@@ -38,7 +38,7 @@ class _DenseLayer(nn.Module):
                     nn.BatchNorm2d(growth_rate),
                     nn.ReLU(inplace=True),
                     nn.Conv2d(growth_rate, growth_rate,
-                        kernel_size=(5, 3), stride=(2, 1), padding=2**(dilation+1), dilation=2**(dilation+1),
+                        kernel_size=(3, 3), stride=(1, 1), padding=2**(dilation+1), dilation=2**(dilation+1),
                         bias=False))
         )
 
