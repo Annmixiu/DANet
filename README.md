@@ -24,6 +24,12 @@ Subsequent update:
                    
 * complete code with training and testing
 
+### 2023. 09. 10
+
+To our esteemed readers and reviewers：
+
+* In the manuscript, we regret to acknowledge that due to spatial limitations, some details in Figures 1 and 2 may appear smaller than desired and require enlargement for clear visibility, which could affect the visual experience. We deeply apologize for any inconvenience this may cause.
+
 ## Getting Started
 
 ### Download Datasets
