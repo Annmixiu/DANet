@@ -110,15 +110,15 @@ Source of noise database: [Microsoft Scalable Noisy Speech Dataset (MS-SNSD)](ht
 * noisy data for the testing → evaluate the noise immunity and generalization of different models.
 
 <p align="center">
-<img src="fig/noise_ADC2004.png" align="center" alt="ablation_ADC2004" width="55%"/>
+<img src="fig/noise_ADC2004.png" align="center" alt="ablation_ADC2004" width="65%"/>
 </p>
 
 <p align="center">
-<img src="fig/noise_MIREX05.png" align="center" alt="ablation_MIREX 05" width="55%"/>
+<img src="fig/noise_MIREX05.png" align="center" alt="ablation_MIREX 05" width="65%"/>
 </p>
 
 <p align="center">
-<img src="fig/noise_MEDLEY DB.png" align="center" alt="ablation_MEDLEY DB" width="55%"/>
+<img src="fig/noise_MEDLEY DB.png" align="center" alt="ablation_MEDLEY DB" width="65%"/>
 </p>
 
 The results show that the DSM model and our model are robust to noise.
