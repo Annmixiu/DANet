@@ -30,6 +30,10 @@ To esteemed readers and reviewers：
 
 * In the manuscript, we regret to acknowledge that due to spatial limitations, some details in Figures 1 and 2 may appear smaller than desired and require enlargement for clear visibility, which could affect the visual experience. We deeply apologize for any inconvenience this may cause.
 
+### 2023. 09. 21
+
+We also experimented element-wise subtraction between the outputs of convolutions of different sizes on the speech denoising and dereverberation task, which seems to make the spectral boundaries of the target speaker more obvious. On the whole, this simple operation can make the feature boundaries more significant and seems that there can be more possibilities based on this in the future.
+
 ## Getting Started
 
 ### Download Datasets
